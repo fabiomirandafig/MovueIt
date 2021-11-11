@@ -1,4 +1,5 @@
-# movue-it-nuxt
+# Movue-it
+Aplicação desenvolvida durante a Nuxt Levue Week do canal Maiatto Dev.
 
 ## Build Setup
 
